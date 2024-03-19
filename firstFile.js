@@ -4,3 +4,8 @@
 // After that type git add .
 //  After adding, commit the git by typing  and entering git commit -m"whatever commit message is" 
 
+// Normal git push did not work, so doing "git push --set-upstream origin master"
+
+// Then do git push 
+
+
